@@ -7,7 +7,7 @@
 ###### Cods
 [Сайт гита](https://github.com)
 
-[Песочница по обучению гита](https://learngitbranching.js.org/?locale=ru_RU "learngitbranching")
+[Песочница по обучению гиту](https://learngitbranching.js.org/?locale=ru_RU "learngitbranching")
 
 + git commit - мы только что внесли изменения в репозиторий и сохранили их как коммит. У коммита, который мы только что сделали, есть родитель, С1, который указывает на предыдущий коммит.
 + git branch newImage - Создадим здесь новую ветку с именем newImage.
@@ -30,6 +30,9 @@
 + git cherry-pick <Commit1> <Commit2> <...> - Это очень простой и прямолинейный способ сказать, что ты хочешь копировать несколько коммитов на место, где сейчас находишься (HEAD). Мы обожаем cherry-pick за то, что в нём очень мало магии и его очень просто понять и применять.
 
 + git rebase -i HEAD~4 - Всё, что нужно для интерактивного rebase - это опция -i
+  
+  Inline-style: 
+![alt text](https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c1008a546ef5c00aaa82375_5c1008b446ef5c00aaa82377/orig.jpg "Logo Title Text 1")
 
 
 Некоторые коды гита.
