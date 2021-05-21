@@ -32,7 +32,7 @@
 + git rebase -i HEAD~4 - Всё, что нужно для интерактивного rebase - это опция -i
   
   Inline-style: 
-![alt text](https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c1008a546ef5c00aaa82375_5c1008b446ef5c00aaa82377/orig.jpg "Logo Title Text 1")
+![alt text](https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c1008a546ef5c00aaa82375_5c1008b446ef5c00aaa82377/orig "Logo Title Text 1")
 
 
 Некоторые коды гита.
