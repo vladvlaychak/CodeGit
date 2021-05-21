@@ -1,3 +1,7 @@
+  
+  Image: 
+![alt text](https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c1008a546ef5c00aaa82375_5c1008b446ef5c00aaa82377/orig "Code")
+
 # CodeGit
 # Коды
 ## Просто Коды
@@ -30,9 +34,6 @@
 + git cherry-pick <Commit1> <Commit2> <...> - Это очень простой и прямолинейный способ сказать, что ты хочешь копировать несколько коммитов на место, где сейчас находишься (HEAD). Мы обожаем cherry-pick за то, что в нём очень мало магии и его очень просто понять и применять.
 
 + git rebase -i HEAD~4 - Всё, что нужно для интерактивного rebase - это опция -i
-  
-  Inline-style: 
-![alt text](https://avatars.mds.yandex.net/get-zen_doc/1101877/pub_5c1008a546ef5c00aaa82375_5c1008b446ef5c00aaa82377/orig "Logo Title Text 1")
 
 
 Некоторые коды гита.
